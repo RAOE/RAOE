@@ -6,6 +6,6 @@
 - QQ: 986771570
 - 博客：https://blog.csdn.net/RAVEEE
 - 公司：琥玥天地
-- 💬向我询问Java Sringboot  
+- 💬向我询问Java Springboot  
 
 <img src="https://github-profile-trophy.vercel.app/?username=RAOE&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
