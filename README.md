@@ -4,4 +4,4 @@ If you have any code question ,You can E-mail to me ,my E-mail is a986771570@gma
 
 If you enjoy what I've created, please feel free to sponsor me.
 
-<a href="https://afdian.com/a/xuyuanfeng"><img width="113" alt="Group 31" src="https://github.com/user-attachments/assets/d927df87-4139-4db5-8c9b-c54980eac03d"></a>
+<a href="https://afdian.com/a/xuyuanfeng"><img width="113" alt="Group 31" src="https://github.com/RAOE/RAOE/blob/main/img/codeSnap_idea.png"></a>
