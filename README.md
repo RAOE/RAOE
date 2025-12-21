@@ -1,10 +1,22 @@
-Hi there! My name is Xuyuanfeng, and I've been working on CodeSnap.idea lately.
-
-If you've got any coding queries or need assistance, just shoot me an email at a986771570@gmail.c.
-
-And if you're digging what I've put together, feel free to show your support with a sponsorship. Every little bit helps!
-
-<a href="https://afdian.com/a/xuyuanfeng">Want to see more? Sponsor a coffee to encourage and support the author's work!</a>
-
-<a href="https://afdian.com/a/xuyuanfeng"><img width="131" alt="Group 31" src="https://github.com/RAOE/CodeSnap.idea/blob/main/doc/logo.png"></a>
-<img src="https://github-profile-trophy.vercel.app/?username=RAOE&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<div align="center">
+ 
+# 🚀 Xuyuanfeng's Developer Hub 
+ 
+**JetBrains Plugin Artisan | Crafting IntelliJ Magic**  
+✨ `CodeSnap.idea` Maintainer | 📬 a986771570@gmail.com
+ 
+[![GitHub Stars](https://img.shields.io/github/stars/RAOE?label=Total%20Stars&style=for-the-badge&color=gold)](https://github.com/RAOE) 
+[![Sponsor](https://img.shields.io/badge/☕_Sponsor_My_Work-F16061?style=for-the-badge&logo=github-sponsors)](https://afdian.com/a/xuyuanfeng) 
+ 
+---
+ 
+### 🛠️ Featured Project 
+[![CodeSnap.idea](https://img.shields.io/badge/CODESNAP.IDEA-005B8E?style=flat&logo=intellij-idea)](https://github.com/RAOE/CodeSnap.idea)   
+_IntelliJ plugin for instant code snippet capture with annotation support_
+ 
+---
+ 
+### 🏆 GitHub Achievements
+<img src="https://github-readme-stats.vercel.app/api?username=RAOE&show_icons=true&theme=cobalt&locale=en" alt="GitHub Trophies" height="160">
+---
+</div>
