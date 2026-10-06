@@ -20,7 +20,6 @@
 | [**vocab-selftest**](https://github.com/RAOE/vocab-selftest) | 📚 词汇自测中心：英语基础 3887 词 / 英语雅思 2946 词 / 日语 3961 词，带发音的极速刷词自测程序 · [在线体验](https://japanese-vocab-quiz-c1gq7yyubx7.qoder.zone/) |
 | [**CodeSnap.idea**](https://github.com/RAOE/CodeSnap.idea) | 🔌 IntelliJ IDEA plugin for instant code snippet capture with annotation support |
 | [**RunnerManager**](https://github.com/RAOE/RunnerManager) | 💥 校园赛事管理系统 · SSM（SpringMVC + Spring + MyBatis） |
-| [**zzhack**](https://github.com/RAOE/zzhack) | 🦀 My personal blog site · 个人博客 |
 
 ### 🧰 Tech Stack · 技术栈
 
