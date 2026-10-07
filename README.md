@@ -2,8 +2,8 @@
 
 # 🚀 Xuyuanfeng's Developer Hub
 
-**Full-stack Java Engineer · JetBrains Plugin Author**  
-全栈 Java 工程师 · JetBrains 插件作者 · `CodeSnap.idea` 维护者
+**AI Agent Java Engineer · JetBrains Plugin Author**  
+AI Agent Java 工程师 · JetBrains 插件作者 · `CodeSnap.idea` 维护者
 
 [![Email](https://img.shields.io/badge/Email-a986771570@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a986771570@gmail.com)
 [![CSDN Blog](https://img.shields.io/badge/Blog-CSDN-ff5722?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/RAVEEE)
